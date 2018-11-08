@@ -84,10 +84,10 @@ DATABASES = {
 # DATABASES = {
 #     'default': {
 #         'ENGINE': 'django.db.backends.mysql',
-#         'NAME': 'django_ude',
-#         'USER': 'ude',
-#         'PASSWORD': 'udeDev!',
-#         'HOST': 'ude.qwertysoft.com.ar',
+#         'NAME': 'django_ude', # Cambiar por su base de datos
+#         'USER': '',
+#         'PASSWORD': '!',
+#         'HOST': '',
 #         'PORT': '3306'
 #     }
 # }
